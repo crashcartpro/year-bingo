@@ -2,7 +2,7 @@
 
 _A cute little HTML+CSS bingo board for things I think would be awesome to accomplish this year!_
 
-Check it out in action at [crump.space/2024-bingo](https://crump.space/2024-bingo)!
+Check it out in action at [taoexmachina.com/bingo2024](https://www.taoexmachina.com/bingo2024/bingo.html)!
 
 **Instead of making a New Year's resolution**, I'm making a bingo card of things I want to do in **2024**. Some of these goals are lofty, some are silly or "trivial", and some just aren't fully in my control.
 
@@ -17,4 +17,4 @@ A **successful result 🎉** for me is that I can look back at the end of the ye
 🐙 Source code available [on GitHub](https://github.com/tylercrumpton/2024-bingo)
 (or you can right-click and view-source!)
 
-Made with ❤️ by [Tyler Crumpton](https://crump.space)
+Copied with ❤️ from [Tyler Crumpton](https://crump.space)
