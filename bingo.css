@@ -13,7 +13,8 @@ main {
 .header {
   display: flex;
   justify-content: space-between;
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   font-size: 28px;
   color: #eee;
 }
@@ -21,7 +22,8 @@ main {
 .header2 {
   display: flex;
   justify-content: space-between;
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   font-size: 16px;
   color: #eee;
 }
@@ -34,7 +36,8 @@ main {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 8px;
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   height: 400px;
 }
 
@@ -42,7 +45,8 @@ main {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 8px;
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   height: 67px;
 }
 
