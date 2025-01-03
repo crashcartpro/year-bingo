@@ -18,6 +18,14 @@ main {
   color: #eee;
 }
 
+.header2 {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  font-size: 16px;
+  color: #eee;
+}
+
 .info {
   text-decoration: none;
 }
@@ -28,6 +36,14 @@ main {
   gap: 8px;
   width: 400px;
   height: 400px;
+}
+
+.extra-board {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+  width: 400px;
+  height: 67px;
 }
 
 small {
