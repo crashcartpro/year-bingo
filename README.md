@@ -1,10 +1,10 @@
-# Crump Bingo 2024
+# ~~Crump~~ Year Bingo
 
 _A cute little HTML+CSS bingo board for things I think would be awesome to accomplish this year!_
 
-Check it out in action at [taoexmachina.com/bingo2024](https://www.taoexmachina.com/bingo2024/bingo.html)!
+Check it out in action at [taoexmachina.com/year-bingo](https://www.taoexmachina.com/year-bingo/bingo2025.html)!
 
-**Instead of making a New Year's resolution**, I'm making a bingo card of things I want to do in **2024**. Some of these goals are lofty, some are silly or "trivial", and some just aren't fully in my control.
+**Instead of making a New Year's resolution**, I'm making a bingo card of things I want to do in **2025**. Some of these goals are lofty, some are silly or "trivial", and some just aren't fully in my control.
 
 A **successful result 🎉** for me is that I can look back at the end of the year and celebrate the things I did do, but not feel guilty about the things that didn't happen.
 
